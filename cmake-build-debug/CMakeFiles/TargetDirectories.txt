@@ -1,0 +1,3 @@
+C:/Users/melis/OneDrive/My files and documents/Computer Science/FSEGA/Year 2 Semester 1/Data Structures and Algorithms/Practical project/cmake-build-debug/CMakeFiles/Practical_project.dir
+C:/Users/melis/OneDrive/My files and documents/Computer Science/FSEGA/Year 2 Semester 1/Data Structures and Algorithms/Practical project/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/melis/OneDrive/My files and documents/Computer Science/FSEGA/Year 2 Semester 1/Data Structures and Algorithms/Practical project/cmake-build-debug/CMakeFiles/rebuild_cache.dir
