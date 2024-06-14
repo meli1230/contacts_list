@@ -12,12 +12,12 @@ This is a short project, coded in C, that manages a contact list using a doubly 
 
     IMPLEMENTATION OF FUNCTIONALITIES:
 contacts.c <br/>
-- list initialization <br/>
-- add a contact to the list <br/>
-- remove a contact from the list <br/>
-- empty the list <br/>
-- search a contact by name <br/>
-- display all contacts <br/>
+- list initialization 
+- add a contact to the list
+- remove a contact from the list
+- empty the list
+- search a contact by name
+- display all contacts
 
 contacts.h <br/>
 - swap function that is used by the sorting algorithms <br/>
