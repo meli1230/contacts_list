@@ -12,7 +12,7 @@ This is a short project, coded in C, that manages a contact list using a doubly 
 
     IMPLEMENTATION OF FUNCTIONALITIES:
 contacts.c <br/>
-    "\t"- list initialization <br/>
+    <pre>- list initialization <pre/> <br/>
     - add a contact to the list <br/>
     - remove a contact from the list <br/>
     - empty the list <br/>
