@@ -1,15 +1,15 @@
     BRIEF OVERVIEW:
 This is a short project, coded in C, that manages a contact list using a doubly linked list. The program allows you to add or remove contacts, to search contacts by name and to display all the contacts. It also includes two sorting functions, each using a different sorting algorithm. <br/>
-<br/>
-<br/>
+
+
     STRUCTURE:
 |__ main.c         // main program logic <br/>
 |__ contacts.c     // implementation of contact list functions, such as add, remove, search and display all contacts <br/>
 |__ contacts.h     // header file associated to contacts.c <br/>
 |__ sorting.c      // sorting functions implementation <br/>
 |__ sorting.h      // header file associated to sorting.c <br/>
-<br/>
-<br/>
+
+
     IMPLEMENTATION OF FUNCTIONALITIES:
 contacts.c <br/>
     - list initialization <br/>
