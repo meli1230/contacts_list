@@ -1,7 +1,14 @@
-DESCRIPTION:
-This is a short project, coded in C, that manages a contact list using a doubly linked list. The program allows you to add or remove contacts, search for contacts 
+BRIEF OVERVIEW:
+This is a short project, coded in C, that manages a contact list using a doubly linked list. The program allows you to add or remove contacts, to search contacts by name and to display all the contacts. It also includes two sorting functions, each using a different sorting algorithm. 
 
-This C application manages a contact list using a doubly linked list. The program allows you to initialize the list, create, delete, empty, look up, and display contacts. It also includes functions to sort contacts by name and age using insertion sort and bubble sort algorithms.
+STRUCTURE: 
+The code is structured in a main C file, and two pairs of C and header files, as it follows:
+
+main.c 
+    - this is where the program starts
+    
+contacts.c / contacts.h -> 
+    - 
 
   
 double linked list
