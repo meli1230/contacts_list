@@ -1,27 +1,28 @@
-BRIEF OVERVIEW:
+    BRIEF OVERVIEW:
 This is a short project, coded in C, that manages a contact list using a doubly linked list. The program allows you to add or remove contacts, to search contacts by name and to display all the contacts. It also includes two sorting functions, each using a different sorting algorithm. 
 
-STRUCTURE: 
-The code is structured in a main C file, and two pairs of C and header files, as it follows:
 
-main.c 
-    - this is where the program starts
-    
-contacts.c / contacts.h -> 
-    - 
-
-  
-double linked list
-
-initializes the list
-create a contact
-delete a contact
-empty the list
-lookup a contact
-display contacts
+    STRUCTURE: 
+|__ main.c         // main program logic
+|__ contacts.c     // implementation of contact list functions, such as add, remove, search and display all contacts
+|__ contacts.h     // header file associated to contacts.c
+|__ sorting.c      // sorting functions implementation
+|__ sorting.h      // header file associated to sorting.c
 
 
+    IMPLEMENTATION OF FUNCTIONALITIES:
+contacts.c
+    - list initialization 
+    - add a contact to the list
+    - remove a contact from the list
+    - empty the list
+    - search a contact by name
+    - display all contacts
 
-swap function that is used by the sorting algorithms
-swap contacts by name -> insertion sort function to sort the contacts by name
-swap contacts by age -> bubble sort function to sort contact list by age
+contacts.h
+    - swap function that is used by the sorting algorithms
+    - insertion sort function that sorts contacts by name
+    - bubble sort function that sorts contacts by age
+
+    HOW TO RUN:
+In order to run this program, you will first need to make sure you have a C compiler installed on your machine, such as GCC or MinGW. Next, you need to clone this project locally. In the end, you simply have to run it, either by using an IDE or directly from the command line. 
