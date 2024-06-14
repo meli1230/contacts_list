@@ -24,5 +24,5 @@ contacts.h
 - insertion sort function that sorts contacts by name
 - bubble sort function that sorts contacts by age
 
-    HOW TO RUN:
+        HOW TO RUN:
 In order to run this program, you will first need to make sure you have a C compiler installed on your machine, such as GCC or MinGW. Next, you need to clone this project locally. In the end, you simply have to run it, either by using an IDE or directly from the command line.  <br/>
