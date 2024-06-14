@@ -3,7 +3,7 @@ This is a short project, coded in C, that manages a contact list using a doubly 
 
 
 # STRUCTURE:
-|__ main.c       // main program logic <br/>
+|__ main.c         // main program logic <br/>
 |__ contacts.c     // implementation of contact list functions, such as add, remove, search and display all contacts <br/>
 |__ contacts.h     // header file associated to contacts.c <br/>
 |__ sorting.c      // sorting functions implementation <br/>
