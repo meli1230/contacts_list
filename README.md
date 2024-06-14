@@ -18,7 +18,7 @@ contacts.c
 - empty the list
 - search a contact by name
 - display all contacts
-<br>
+<br/>
 contacts.h
 - swap function that is used by the sorting algorithms
 - insertion sort function that sorts contacts by name
