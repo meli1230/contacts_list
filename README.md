@@ -11,7 +11,7 @@ This is a short project, coded in C, that manages a contact list using a doubly 
 
 
 # IMPLEMENTATION OF FUNCTIONALITIES:
-## contacts.c
+### contacts.c
 - list initialization 
 - add a contact to the list
 - remove a contact from the list
@@ -19,7 +19,7 @@ This is a short project, coded in C, that manages a contact list using a doubly 
 - search a contact by name
 - display all contacts
 
-## contacts.h
+### contacts.h
 - swap function that is used by the sorting algorithms
 - insertion sort function that sorts contacts by name
 - bubble sort function that sorts contacts by age
